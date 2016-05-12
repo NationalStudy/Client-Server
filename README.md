@@ -1,5 +1,5 @@
 # Client-Server
-Console chat on Ruby
+Chat on Ruby for console
 
 http://www.sitepoint.com/ruby-tcp-chat/
 
